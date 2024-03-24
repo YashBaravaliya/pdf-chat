@@ -22,7 +22,7 @@ This is a local, AI-powered question-answering chatbot that utilizes PDFs as its
 2.  **Installation:**
     * Clone this repository:
        ```bash
-       git clone https://github.com/YashBaravaliya/Pdf-ChatBot
+       git clone https://github.com/YashBaravaliya/pdf-chat
        ```
     * Navigate to the project directory:
        ```bash
