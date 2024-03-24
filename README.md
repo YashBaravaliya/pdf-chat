@@ -1,4 +1,4 @@
-**# Pdf Chatbot**
+# **Pdf Chatbot**
 
 This is a local, AI-powered question-answering chatbot that utilizes PDFs as its knowledge source. 
 
