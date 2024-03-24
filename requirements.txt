@@ -6,3 +6,4 @@ flask
 faiss-cpu
 langchain_community
 ollama
+-e .
